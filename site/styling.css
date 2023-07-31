@@ -1,15 +1,15 @@
 a.linkbutton{
 	text-decoration: none;
-	background-color: green;
+	background-color: maroon;
 	border: 1px solid blue;
-	color: black;
+	color: white;
 	display: block;
-	width: 200px;
+	width: 300px;
 	text-align: center;
 	margin-bottom: 1px;
 }
 
 a:hover, a:active{
-	background-color: darkgreen;
-	color: white;
+	background-color: red;
+	color: gray;
 }
